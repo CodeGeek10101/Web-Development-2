@@ -1,0 +1,253 @@
+<!-- Create a quiz to help your friends find out... -->
+<!-- What kind of dog are you? -->
+
+<div id="content">
+    <!-- Title your quiz anything you like! -->
+    <!-- What kind of dog are you? -->
+    <!-- What shade of fuschia speaks to your soul? -->
+    <!-- What clique do you belong in? -->
+    <h1>What Security Breach Character are you? </h1>
+    <div class="quizQuestion">
+        <h2>1. How do you express yourself?</h2>
+        <div class="answers">
+            <div data-value="A" class="answer">
+                <div class="answerText">A: Through doing what i love, I dont care about judgement</div>
+            </div>
+            <div data-value="B" class="answer">
+                <div class="answerText">B: art, I have many other talents but I stick with one</div>
+            </div>
+            <div data-value="C" class="answer">
+                <div class="answerText">C: Through what I wear, my style tends to change a lot</div>
+            </div>
+            <div data-value="D" class="answer">
+                <div class="answerText">D: By talking to people, I have a good sense of humor
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="quizQuestion">
+        <h2>2. How would people describe you?</h2>
+        <div class="answers">
+            <div data-value="A" class="answer">
+                <div class="answerText">A: Caring, attentive, passionate</div>
+            </div>
+            <!-- Add 3 more answers here: -->
+            <div data-value="B" class="answer">
+                <div class="answerText">B: Confident, prideful, enthusiastic </div>
+            </div>  
+            <div data-value="C" class="answer">
+                <div class="answerText">C: Popular, kind, protective, impulsive</div>
+            </div>   
+            <div data-value="D" class="answer">
+                <div class="answerText">D: Funny, popular, huge heart, problem solver</div>
+            </div>               
+        </div>
+    </div>
+    <div class="quizQuestion">
+        <!-- Fill in the 3rd question here: -->
+    <div class="quizQuestion">
+        <h2>3. What is your biggest flaw?</h2>
+        <div class="answers">
+            <div data-value="A" class="answer">
+                <div class="answerText">A: Putting others first, struggling to care of myself</div>
+            </div>
+            <!-- Add 3 more answers here: -->
+            <div data-value="B" class="answer">
+                <div class="answerText">B: Being a bit narcissistic to build my confidence </div>
+            </div>  
+            <div data-value="C" class="answer">
+                <div class="answerText">C: Acting before thinking </div>
+            </div>   
+            <div data-value="D" class="answer">
+                <div class="answerText">D: Being a bit shy with people I dont know</div>
+            </div>               
+        </div>
+    </div>    
+    </div>
+    <!-- Add a fourth, final question below: -->
+    <div class="quizQuestion">
+        <div class="quizQuestion">
+        <h2>4. What is your favorite color?</h2>
+        <div class="answers">
+            <div data-value="A" class="answer">
+                <div class="answerText">A: Blue or brown, something calming </div>
+            </div>
+            <div data-value="B" class="answer">
+                <div class="answerText">B: Purple or red, colors that are darker but bold</div>
+            </div>  
+            <div data-value="C" class="answer">
+                <div class="answerText">C: Pink or yellow, something happy</div>
+            </div>   
+            <div data-value="D" class="answer">
+                <div class="answerText">D: Dark green or blue, a statement color</div>
+            </div>               
+        </div>
+    </div> 
+    </div>
+    <div class="result" id="a-personality">
+        <h2>Glamrock Freddy</h2>
+        <img src="https://64.media.tumblr.com/1a616860e2a54a8fb5856eafba23e1be/ceb2d88e1827ffcf-3a/s500x750/89392d6c8dcb8b633c49a242b1f9b810e21bc27f.gifv" width= "400px">
+        <p>
+           Like Glamrock Freddy, you are friendly, considerate, and supportive. You are willing to risk it all for your friends. You are seen as trustworthy and inspire change in others. One of your main goals in life is to achieve harmony and resolve conflicts. Glamrock Freddy realizes Gregory is in danger in everyone else’s hands, so he makes sure Gregory does not get hurt. He always tries to look on the bright side and focus on his mission. "Way to go, superstar! I knew you could do it!"
+               
+        </p>
+    </div>
+    <div class="result" id="b-personality">
+        <h2>Roxanne Wolf</h2>
+        <!-- Fill out the info for personality type B: -->
+        <img src="https://c.tenor.com/dzYhe7AdB7YAAAAd/roxanne-wolf-fnaf.gif" width= "400px">
+        <p>
+            Even though you prefer to be alone, a lot of people know who you are. You pay attention to your appearance around other people. You like to be recognized, so you have a style that causes people to think of you when they see it. Roxanne Wolf is obsessed with being the best, constantly showing off new skills and always trying to prove she is good at what she does. "I'm the best!" 
+        </p>    
+    </div>
+    <!-- Add two more personality types for C/D: -->
+    <div class="result" id="c-personality">
+        <h2>Glamrock chica</h2>
+        <img src="https://c.tenor.com/x1p5dS1yoKMAAAAC/fnaf-fnaf-security-breach.gif" width= "400px">
+        <p>
+            Your emotions get the best of you. You are very protective of the people you love and will go to any length to keep those people safe. You are very kind, and although some might call you gullible, you often reassure yourself that you are doing the right thing. You love looking good at all times and take great pride in your appearance. Chica is aware of all of her good traits and isn't afraid to show them off. She takes care of her crew members and gets rid of any threats in their way. ¨Our friendly security staff can help¨    
+        </p>
+    </div>
+    <div class="result" id="d-personality">
+        <h2>montgomery gator</h2>
+        <img src="https://64.media.tumblr.com/8f17cef128376c52f3f2199b81e2afa1/b154ddfbc26f5342-04/s540x810/3650583a6804eff75e81647fe460c42191f72b90.gifv" width= "400px">
+        <p>
+            You probably give the wrong impression sometimes. People see you as cold, cruel, and intimidating. However, when people get to know you more, they find you very sweet. You really care about your friends and family. You are not easily provoked. However, when you lose your temper, you become reckless and cannot be contained easily. Montgomery Gator is a laid-back character who is proud of his bass-playing abilities and enjoys making people laugh. He is difficult to control once he loses his temper, but quickly regrets it. He would never want to hurt anyone. "Rock and Roll!" 
+        </p>
+    </div>
+    <div class="result" id="no-personality">
+        <h2>No personality</h2>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Five_Nights_At_Freddy%27s_Security_Breach.gif" width="400px">
+        <p>
+            Unfortunately, you have no personality, try going back and retaking the quiz.
+        </p>
+    </div>
+    <div id="footer">
+        <button class="btn btn-primary btn-block btn-lg" id="submitButton">Submit</button>
+        <button class="btn btn-primary btn-block btn-lg" id="retryButton">Retry</button>
+    </div>
+</div>
+<style>
+    body {
+        background-color:rgb(81,25,101);
+    }
+    .answer {
+        cursor:pointer;
+        text-align:center;
+        width:250px;
+        height:250px;
+        margin:8px;
+        color:white;
+        background-color:rgb(39,118,71,255);
+        padding:16px;
+        border-style:double;
+        border-width:7px;
+        border-color:gold;
+    }
+    .selected {
+        background-color:rgb(39,118,71,255);
+    }
+    #header {
+        text-align:center;
+        background-color:white;
+    }
+    #footer {
+        text-align:center;
+    }
+    .answerText {
+        font-size:2em;
+    }
+    h2 {
+        padding-top:1em;
+        color:white;
+        font-weight:bold
+    }
+    h1 {
+        padding-top: 1em;
+        color:white;
+        font-weight:bold
+    }
+    #content {
+        background-color:purple;
+        width:576px;
+        padding:16px;
+        text-align:center;
+        font-family:system-ui;
+        font-weight:bold;
+        text-transform:uppercase;
+        border-style: double;
+        border-width:6px;
+        border-color: gold;
+
+    }
+    .muted {
+        opacity:0.25;
+    }
+    .result {
+        display: none;
+        color:white;
+        margin:23px;
+        padding:4px;
+        border-style: double;
+        border-color: gold;
+        border-width:8px;
+    }
+    #retryButton {
+        display: none;
+        
+    }
+</style>
+<script>
+    var answers = $(".answer");
+    var submitButton = $("#submitButton");
+    var retryButton = $("#retryButton");
+    var quizQuestions = $(".quizQuestion");
+    var results = $(".result");
+    function highlightSelected() {
+        var answerDiv = $(this);
+        answerDiv.siblings().addClass("muted");
+        answerDiv.siblings().removeClass("selected");
+        // Add the "selected" class to answerDiv:
+        answerDiv.addClass("selected");
+        // Remove the "muted" class from answerDiv:
+        answerDiv.removeClass("muted");
+    }
+    answers.on("click", highlightSelected);
+    function submitAnswers() {
+        var aCount = $(".selected[data-value='A']").length;
+        var bCount = $(".selected[data-value='B']").length;
+        // Create 2 more variables for C/D counts:
+        var cCount = $(".selected[data-value='C']").length;
+        var dCount = $(".selected[data-value='D']").length;
+        if (aCount > 1) {
+            $("#a-personality").show();
+        }
+        else if (bCount > 1) {
+            // Show the element with id b-personality:
+            $("#b-personality").show();
+        }
+        // Add more if-statements to cover C/D answers:
+        else if (cCount > 1) {
+            $("#c-personality").show();
+        }
+        else if (dCount > 1) {
+            $("#d-personality").show();
+        }
+        else {
+            $("#no-personality").show();
+        }
+        quizQuestions.hide();
+        retryButton.show();
+        submitButton.hide();
+    }
+    submitButton.on("click", submitAnswers);
+    function resetPage() {
+        quizQuestions.show();
+        answers.removeClass("muted");
+        answers.removeClass("selected");
+        submitButton.show();
+        retryButton.hide();
+        results.hide();
+    }
+    retryButton.on("click", resetPage);
+</script>
